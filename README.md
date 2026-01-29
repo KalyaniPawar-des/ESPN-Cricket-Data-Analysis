@@ -96,8 +96,7 @@ Relationships are optimized for **performance and scalability**.
 ---
 
 ## 📷 Dashboard Preview
-
-> *(Add screenshots of your Power BI dashboard here)*
+![alt](https://github.com/KalyaniPawar-des/ESPN-Cricket-Data-Analysis/blob/dd9bd291a1a71004a8877c6d67f9ece4aa7cdfe9/Bowling%20Data%20Analysis.png)
 
 ---
 
