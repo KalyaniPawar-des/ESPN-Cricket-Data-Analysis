@@ -98,6 +98,8 @@ Relationships are optimized for **performance and scalability**.
 ## 📷 Dashboard Preview
 ![alt](https://github.com/KalyaniPawar-des/ESPN-Cricket-Data-Analysis/blob/dd9bd291a1a71004a8877c6d67f9ece4aa7cdfe9/Bowling%20Data%20Analysis.png)
 
+![alt](https://github.com/KalyaniPawar-des/ESPN-Cricket-Data-Analysis/blob/3589e85fb2b847afbc914a5d8f95adb516d1e2e9/Batting%20Data%20Analysis.png)
+
 ---
 
 ## 🚀 How to Use
