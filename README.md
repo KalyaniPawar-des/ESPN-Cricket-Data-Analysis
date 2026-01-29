@@ -128,8 +128,8 @@ Relationships are optimized for **performance and scalability**.
 **Kalyani Pawar**
 Data Analyst | Power BI | SQL | Data Visualization
 
-🔗 *GitHub*: (Add your GitHub profile link)
-🔗 *LinkedIn*: (Add your LinkedIn profile link)
+🔗 *GitHub*: (https://github.com/KalyaniPawar-des)
+🔗 *LinkedIn*: (www.linkedin.com/in/kalyanipaward)
 
 ---
 
